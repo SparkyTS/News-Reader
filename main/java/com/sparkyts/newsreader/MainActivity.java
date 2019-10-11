@@ -65,7 +65,6 @@ public class MainActivity extends AppCompatActivity {
 
             pd.dismiss();
             pd.cancel();
-            System.out.println("Done");
         }
 
         @Override
